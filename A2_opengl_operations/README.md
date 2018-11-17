@@ -1,1 +1,1 @@
-Please see 
+Please see http://htmlpreview.github.io/?https://github.com/parulaggarwal/computer-graphics-undergrad/blob/master/A2_opengl_operations/assignment2.html
